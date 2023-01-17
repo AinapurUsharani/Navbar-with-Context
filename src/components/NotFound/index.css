@@ -1,0 +1,11 @@
+.dark-home-paragraph {
+  font-family: 'Roboto';
+  color: #ffffff;
+  font-size: 22px;
+}
+
+.light-home-paragraph {
+  font-family: 'Roboto';
+  color: #334155;
+  font-size: 22px;
+}

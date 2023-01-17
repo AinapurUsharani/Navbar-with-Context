@@ -1,0 +1,38 @@
+.dark-home-container {
+  display: flex;
+  flex-direction: column;
+  background-color: black;
+  margin-top: -30px;
+  height: 100vh;
+  align-items: center;
+  justify-content: center;
+}
+
+.light-home-container {
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  margin-top: -30px;
+  height: 100vh;
+  align-items: center;
+  justify-content: center;
+}
+.dark-home-image {
+  height: 200px;
+  width: 200px;
+}
+.light-home-image {
+  height: 200px;
+  width: 200px;
+}
+.dark-home-heading {
+  font-family: 'Roboto';
+  color: #ffffff;
+  font-size: 24px;
+}
+
+.light-home-heading {
+  font-family: 'Roboto';
+  color: #000000;
+  font-size: 24px;
+}
